@@ -1,12 +1,25 @@
 /* Add a black background color to the top navigation */
+body{
+  font-family: 'Roboto', sans-serif;
+
+}
+.root {
+  
+  --off-white: #f3f4f6;
+  --dark-gray: #6b7280;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;
+    border: 2rem;
+    border-radius: 3rem;
+
+    
     /* height: auto; */
   }
   
   /* Style the links inside the navigation bar */
-  .topnav a {
+  .topnav a{
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -22,13 +35,14 @@
   }
   
   /* Add a color to the active/current link */
-  .topnav a.active {
+  .topnav-left a{
     background-color: #04AA6D;
     color: white;
   }
   .topnav-left
   {
       float: right;
+
   }
   .social-footer{
     background-color: #333;
@@ -60,7 +74,41 @@
     
 }
 .social-footer a:hover {
-    background-color: #ddd;
+    background-color: #f3f4f6;
     color: black;
+  }
+
+   .section-ow{
+    display: block;
+    background-color:#f3f4f6 ;
+    border-radius: 1rem;
+  }
+  section{
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    width: 70%;
+    margin-left: 10rem;
+    /* margin-left: 20rem; */
+  }
+  .project-button{
+    display: block;
+    
+    background-color: #04AA6D;
+    border-color: #04AA6D;
+   width: 30%;
+    margin:auto;
+    border-radius: 2rem;
+  }
+  .read-button{
+    display: block;
+    
+    background-color: white;
+    border-color: #04AA6D;
+    box-shadow: none;
+    width: 30%;
+    color: #04AA6D;;
+    margin:auto;
+    border-radius: 2rem;
   }
   
