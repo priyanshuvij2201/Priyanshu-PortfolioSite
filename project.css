@@ -160,7 +160,10 @@ article{
     font-size: 20px;
    
 }
+.last{
 
+    margin-bottom: 10%;
+}
 
 .view-source{
     background-color: #FF6123;
