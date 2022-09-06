@@ -117,7 +117,7 @@ body {
     background-color: #f3f4f6;
     margin-left: auto;
     margin-right: auto;
-    border: ;
+
     width: auto;
     text-align: center;
     padding-bottom: 2%;
@@ -160,9 +160,6 @@ article{
     font-size: 20px;
    
 }
-.live{
-}
-
 
 
 .view-source{
@@ -198,65 +195,10 @@ li
 
 
 
-@media (max-width: 900px)
+/* @media (max-width: 900px)
 .section {
     width: auto;
-}
-
-
-
-
-
-
-
-
-/* .Date {
-    padding: 0%;
-    margin-top: 0%;
-    font-size: small;
-
 } */
 
-/* section {
-    /* text-align: center;
-    /* padding: 2rem; */
-    /* margin-top: 2rem;
-    width: 70%;
-    margin-left: 15%; */ */
-    /* margin-left: 20rem; */
-/* }
-
-.button-code a {
-    float: left;
-    padding: 3%;
-    text-align: center;
-    margin: auto;
-}
 
 
-
-.live-project {
-    display: block;
-    background-color: #FF6123;
-    border-color: #FF6123;
-    color: white;
-    /* width: 20%; */
-    /* font-size: 1rem;
-
-    /* border-radius: 2rem;
-    height: 2rem; */
-    
-
-/* 
-.view-source {
-    display: block;
-    background-color: white;
-    border-color: #FF6123;
-    color: #FF6123;} */ */
-    /* box-shadow: none;
-    width: 20%;
-    font-size: 1rem; */
-    /* margin: auto;
-    border-radius: 2rem;
-    height: 2rem;
-} */ 
