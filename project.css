@@ -154,18 +154,27 @@ article{
 
 }
 .container a{
+  
+    margin-left: 10px;
      
-    padding-bottom: 3%;
 }
+.container a:hover
+{   text-decoration: none;
+color: white;}
+
 .live-project{
     background-color: #FF6123;
     border-color: #FF6123;
-    color: white;   
-    border-radius: 5%;
-    width: 150x;
-    height: 35px;
-    font-size:15px;
-   
+    color: white; 
+    padding: 10px 25px;
+    font-weight: bold;
+    font-size: large;
+    border: 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: white;
+    
+
 }
 .last{
 
@@ -176,12 +185,17 @@ article{
     background-color: #FF6123;
     border-color: #FF6123;
     color: white;
-    border-radius: 5%;
-    width: 150x;
-    height: 35px;
-    font-size: 15px;
-
+   padding: 10px 25px;
+    font-weight: bold;
+    font-size: large;
+    border: 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: white;
+   
 }
+
+
 
 /* .section{ 
     margin-top: auto;
