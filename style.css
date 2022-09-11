@@ -29,7 +29,7 @@ body{
   }
   
   /* Add a color to the active/current link */
-  .topnav-left a{
+  .active{
     background-color: #FF6123;
     color: white;
   }
