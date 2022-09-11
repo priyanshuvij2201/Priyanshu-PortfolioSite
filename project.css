@@ -24,6 +24,7 @@ body {
     font-size: 20px;
 }
 
+
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #ddd;
@@ -52,8 +53,12 @@ body {
     right: 0;
     bottom: 0;
     overflow: hidden;
+    
 
 
+}
+.social-footer-div {
+    margin-right: 10px;
 }
 
 .social-footer a {
@@ -78,9 +83,11 @@ body {
     font: size 20px;
     padding-bottom: 5rem;
 }
+
 .hero h1
 {
     text-align: center;
+    font-size: 50px;
 }
 
 .inverted {
@@ -157,7 +164,7 @@ article{
     border-radius: 5%;
     width: 150x;
     height: 35px;
-    font-size: 20px;
+    font-size:15px;
    
 }
 .last{
@@ -172,7 +179,7 @@ article{
     border-radius: 5%;
     width: 150x;
     height: 35px;
-    font-size: 20px;
+    font-size: 15px;
 
 }
 
