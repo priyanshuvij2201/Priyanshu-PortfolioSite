@@ -46,7 +46,7 @@ body {
 
 }
 footer {
-    position: fixed;
+    position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -120,7 +120,7 @@ footer {
     margin-right: auto;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 16px;
     text-decoration: none;
     font-size: 30px;  }     
 
