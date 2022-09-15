@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.root {
+
+    --off-white: #f3f4f6;
+    --dark-gray: #6b7280;
+}
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav-left a {
+    /* background-color: #FF6123; */
+    color: white;
+}
+
+.projects {
+    background-color: #FF6123;
+}
+
+.topnav-left {
+    float: right;
+
+}
