@@ -109,7 +109,7 @@ body{
     max-width: 170px;
     color: white;
     text-decoration: none;
-    font-weight:bolder;
+    font-weight:lighter;
   }
   .container div{
     margin-bottom: 20rem;
@@ -127,7 +127,7 @@ body{
     margin: 1rem auto;
     width: 100%;
     max-width: 170px;
-    font-weight:bolder;
+    font-weight:lighter;
     text-decoration: none;
    
   }
