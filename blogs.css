@@ -37,7 +37,7 @@ body {
     color: white;
 }
 
-.projects {
+.blogs {
     background-color: #FF6123;
 }
 
@@ -48,23 +48,136 @@ body {
 .hero {
     display: block;
     text-align: center;
-    align-self: center;
     color: black;
-    margin-top: 10%;
-    margin-left: auto; 
-    margin-right: auto;
-    font: size 20px;
-    
-    padding-bottom: 10px 32px;
+    margin:auto;
+     padding-top: 100px;
+     padding-bottom: 80px;
+  
 }
 
 .hero h1
 {
     text-align: center;
     font-size: 50px;
+    font-weight:900;
 }
 
 .inverted {
     color: #FF6123;
-    font-weight: 300;
+
 }
+.social-footer-right {
+    color: #f2f2f2;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+   
+
+
+}    
+.social-footer a{
+       
+ 
+    color: #f2f2f2;
+    text-align: center;
+    padding: 8px 18px;
+    text-decoration: none;
+    font-size: 30px;
+   margin-right: auto;
+   margin-left: auto;
+     }     
+
+.social-footer a:hover {
+    background-color: #f3f4f6;
+    color: black;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+display: block;}
+
+    /* .social-footer {
+    background-color: black;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    
+} */
+.social-footer-div {
+   
+}
+
+.social-footer a {
+    margin-right:auto;
+    margin-left: auto;
+    
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+}
+.container{
+   margin: auto;
+    width: auto;
+    text-align: center;
+    padding: 80px 32px;
+    border-radius: 10px;
+   
+}
+article{
+    padding-top: 5%;
+    margin-top: 5%;
+}
+.containers small{
+    padding: 0%;
+    margin-top: 0%;
+}
+.container h1{
+    margin-bottom: 0%;
+    font: size 35px;
+}
+.container p{
+    font-size: large;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+
+
+
+}
+.container a{
+  
+    margin-left: 10px;
+     
+}
+.container a:hover
+{   text-decoration: none;
+color: white;}
+
+.live-project{
+    background-color: #FF6123;
+    border-color: #FF6123;
+    color: white; 
+    padding: 10px 25px;
+    font-weight: lighter;
+    font-size: large;
+    border: 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: white;
+    
+
+}
+.last{
+    margin-bottom: 10%;
+}
+
+
