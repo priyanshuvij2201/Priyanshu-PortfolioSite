@@ -45,3 +45,26 @@ body {
     float: right;
 
 }
+.hero {
+    display: block;
+    text-align: center;
+    align-self: center;
+    color: black;
+    margin-top: 10%;
+    margin-left: auto; 
+    margin-right: auto;
+    font: size 20px;
+    
+    padding-bottom: 10px 32px;
+}
+
+.hero h1
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+.inverted {
+    color: #FF6123;
+    font-weight: 300;
+}
