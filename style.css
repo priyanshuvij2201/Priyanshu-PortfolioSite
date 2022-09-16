@@ -95,9 +95,16 @@ body{
   }
   .container a:hover{
     text-decoration: none;
-    color: white;
+   color: white;
     align-items: center;
   }
+  
+  .blog a:hover{
+    text-decoration: none;
+   color:#FF6123 ;
+    align-items: center;
+  }
+
   .project-button{
    
     display: block;
@@ -133,4 +140,5 @@ body{
     text-decoration: none;
    
   }
+
   
