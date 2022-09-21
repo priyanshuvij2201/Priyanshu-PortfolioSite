@@ -1,6 +1,7 @@
 /* Add a black background color to the top navigation */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat", sans-serif;
 
 }
 .root {
@@ -32,6 +33,20 @@ body{
   .active{
     background-color: #FF6123;
     color: white;
+  }
+  .inverted{
+    color: #FF6123;
+  }
+  .headimg{
+    max-width: 80%;
+    width: 550px;
+    display: block;
+    margin: auto;
+  }
+  .bio{
+ 
+    font-weight: bold;
+    font-size: large;
   }
   .topnav-left
   {
