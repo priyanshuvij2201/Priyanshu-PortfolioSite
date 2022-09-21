@@ -78,9 +78,9 @@ h2{
     font-weight: 300;
 }
 .blogstext{
-    text-align:left;
     display: block;
-    width: auto;
-    padding: 10px 200px;
-
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1em;
+    margin-inline-end: 1em;
 }
